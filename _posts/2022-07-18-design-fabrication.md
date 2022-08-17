@@ -13,7 +13,7 @@ We are looking for people who would like to participate. Of particular interest 
 
 ## Timeline
 
-We are [accepting applications](https://docs.google.com/forms/d/e/1FAIpQLSdGwGCCvEFTOb4yauRoDrtShIVjVyNCZG7CtRjMzhqo8ghdRQ/viewform) now and will begin the initial design and research phase as soon as we have serious people onboard. Hope is that we will have a good idea about who we want to work with and what we want to build by the beginning of September when we’ll send invitations. We would like people to arrive in early October. Once people are here we will build out the workshop and begin assembling a prototype. Once we are confident we have a viable model, build process and team we can shift into production. We will wind down production and sell whatever trailers we have built in April. 
+We are [accepting applications](https://docs.google.com/forms/d/e/1FAIpQLSdGwGCCvEFTOb4yauRoDrtShIVjVyNCZG7CtRjMzhqo8ghdRQ/viewform) now and will begin the initial design and research phase as soon as we have serious people onboard. While the main Mars College program runs January thru March, people can come as early as November if they are prepared to help with the build.
 
 ## Stages
 - Online Research - Define the goals for the initial model and choose the platform and parts to use.  
