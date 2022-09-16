@@ -17,26 +17,27 @@ description: Living and personal space options on Mars
 <!-- ============ CONTENT ============ -->
 <div id="container">
     <p> 
-        Mars College takes place on an ancient dry lake bed in the Sonoran Desert. We adhere to the radical self reliance and leave no trace principles from Burningman. We construct an inner compound of communal structures framed with wood and pallet racks to provide closed in work spaces, kitchen areas, wind protection and shade for the tent living areas.
+        Mars College takes place on an ancient dry lake bed in the Sonoran Desert. We adhere to the radical self reliance and leave no trace principles from Burningman. We construct an inner compound of communal structures framed with wood and pallet racks to provide closed in work spaces, kitchen areas, wind protection and shade.
     </p>
     <p>
-        We provide water, weather protection, electricity, high-speed internet, and communal working spaces. It is easy to live comfortably and get work done while at Mars College. With our basic needs met among a supportive community, we are free to <a href="/study">pursue our passions.</a>
+        We work together to bring water from town, set up solar panels and generators for electricity, establish a high-speed internet link, and take care of all our necessities. With our basic needs met among a supportive community, we are free to <a href="/study">pursue our passions.</a>
     </p>
-    <h2>
-        <span id="tents">
-            Tents
-        </span>
-    </h2>
-    <p>
-        The default personal living space is a 3-person tent with a mattress. These are densely arranged in the Mars inner compound where they can take advantage of the shade and wind protection of the main community structure.  People with sturdier tents of their own may set them up outside the compound where they may enjoy the expansive views and a bit more personal space, but will need to handle the intense sun and winds of the desert. Heavy duty Bell tents have withstood the winds in past years. We also have materials for making <a href="/gallery/hexayurt">hexayurts</a>.
-    </p>
+    
     <h2>
         <span id="vanlife">
             Cars, Vans & Trailers
         </span>
     </h2>
     <p>
-        We are proponents of the vanlife lifestyle. People who wish to live in their vehicles park just outside the compound walls. This creates an additional neighborhood with some protection from the communal structures and easy access to the community amenities. If you’ve been dreaming about vanlife, Mars College is a good chance to build out a van or cargo trailer into the mobile tiny home you’ve been thinking about.
+        We are proponents of the vanlife lifestyle. People with livable vehicles can establish camp on Mars near our main community structures. If you’ve been dreaming about vanlife, Mars College is a good chance to build out a van or cargo trailer into the mobile tiny home you’ve been thinking about.
+    </p>
+    <h2>
+        <span id="Pallet Rack Apartments">
+            Livable Spaces in the Pallet Rack Structure
+        </span>
+    </h2>
+    <p>
+        We will build a number of rudimentary structures out on Mars that people can occupy. We will experiment with a number of form factors ranging from small capsules to large rooms. We will collectively build the basic structures and provide mattresses, but participants will need to flesh them out to make them 'homey'. 
     </p>
     <h2>
         <span id="houses">
@@ -53,14 +54,6 @@ description: Living and personal space options on Mars
     </h2>
     <p>
         We encourage Martians to consider having some kind of personal transport to cover the distances between Mars and Bombay Beach. We are big fans of the <a href="/gallery/electric_unicycle/">electric unicycle</a>, and buy them in bulk. If you are interested in learning how to ride an electric unicycle with us, or joining our unicycling squad, <a href="/euc">please see this page</a>. We also have a collection of mountain bikes which can be freely borrowed.
-    </p>
-    <h2>
-        <span id="diy">
-            DIY ideas
-        </span>
-    </h2>
-    <p>
-        Over time people may be inspired to build out a more rigid structure for their personal camping space. DIY shelters can take advantage of the pallet rack communal structure for support. Keep in mind the Leave No Trace principle and build structures with standard components that can be reused in the future.
     </p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
